@@ -23,11 +23,14 @@ Step 6: Run the program and choose RTL viewer to get RTL realization.
 
 ## THEORY/EXPLANATION:
 
-In the given logic diagram the inputs are x,y,z and outputs are f1,f2. Also it consists the complements of x and y. For wires there are a,b,s1,s2,s3. The program for the above logic diagram is given below.
+In the given logic diagram the inputs are x,y,z and outputs are f1,f2. 
+Also it consists the complements of x and y. For wires there are a,b,s1,s2,s3. 
+The program for the above logic diagram is given below.
 
 ## PROGRAM:
 
 Developed by: SNEHA BASYAL M
+
 Reference no: 22008869
 ```
 module simulate(x,y,z,f1,f2);
